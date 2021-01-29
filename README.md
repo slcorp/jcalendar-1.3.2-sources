@@ -1,12 +1,12 @@
 # jcalendar-1.3.2-sources
-Source code of the JCalendar 1.3.2 classes used by the Display Server. 
+Source code of the JCalendar 1.3.2 classes used by the RTView calendar object. 
 
 
 
 
-=======================================================================
+==================================================
 JCalendar - v1.3.2 - 06/04/06 - Readme File  - 
-=======================================================================
+==================================================
 
 (C) 1999 - 2006 Kai Toedter
 Released under GNU Lesser General Public License (see jcalendar-license.txt)
