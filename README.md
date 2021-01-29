@@ -13,20 +13,20 @@ Released under GNU Lesser General Public License (see jcalendar-license.txt)
 kai@toedter.com
 www.toedter.com
 
-=======================================================================
+==================================================
 THANKS
 
 I would like to thank all the people who have sent e-mails and
 provided bug fixes and suggestions.
 
-=======================================================================
+==================================================
 UPDATES
 
 JCalendar is updated from time to time.
 Check the web site to stay informed about the updates:
   http://www.toedter.com
 
-=======================================================================
+==================================================
 CONTENTS
 
 At the top level you find this file and a text version of the LGPL
